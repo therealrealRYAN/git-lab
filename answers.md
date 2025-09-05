@@ -1,11 +1,11 @@
 
 
-git version 2.43.0
+1. git version 2.43.0
 
-user.name=Reagan Ryan
+2. user.name=Reagan Ryan
 user.email=rr697224@ohio.edu
 
-//gives a list of commands
+3. //gives a list of commands
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
@@ -52,15 +52,15 @@ to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
 //
 
-README.md
+4. README.md
 	answers.md
 	
 
 //
-answers.md
+5. answers.md
 	
 //
-On branch master
+6. On branch master
 
 No commits yet
 
@@ -70,26 +70,26 @@ Changes to be committed:
 	new file:   answers.md
 
  //
-On branch master
+7. On branch master
 nothing to commit, working tree clean
 //
 
-Author: Reagan Ryan <rr697224@ohio.edu>
+8. Author: Reagan Ryan <rr697224@ohio.edu>
 Date:   Wed Sep 3 17:57:43 2025 -0400
 
     Initial commit
 //
-On branch main
+9. On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 //
-no
+10. no
 //
-! [rejected]        main -> main (fetch first)
+11. ! [rejected]        main -> main (fetch first)
 error: failed to push some refs to 'https://github.com/therealrealRYAN/git-lab.git'
-//
-remote: Enumerating objects: 6, done.
+
+ remote: Enumerating objects: 6, done.
 remote: Counting objects: 100% (6/6), done.
 remote: Compressing objects: 100% (4/4), done.
 remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
@@ -103,9 +103,9 @@ Fast-forward
 
 (the README.md file was changed)
 // 
-Yes the README.md files was changed//
+12. Yes the README.md files was changed//
 
-.  ..  git-lab  git-lab-2
+13. .  ..  git-lab  git-lab-2
 //
 
 
